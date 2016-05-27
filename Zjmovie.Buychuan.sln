@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25008.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{084D50A1-75A1-4DFD-BF64-8F4FD6E521D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9BE789F9-0F15-436D-A819-2E3804FB2281}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Zjmovie.Buychuan", "src\Zjmovie.Buychuan\Zjmovie.Buychuan.xproj", "{460C6FA8-8057-4C49-870B-B970B96339AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460C6FA8-8057-4C49-870B-B970B96339AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460C6FA8-8057-4C49-870B-B970B96339AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460C6FA8-8057-4C49-870B-B970B96339AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460C6FA8-8057-4C49-870B-B970B96339AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{460C6FA8-8057-4C49-870B-B970B96339AD} = {084D50A1-75A1-4DFD-BF64-8F4FD6E521D5}
+	EndGlobalSection
+EndGlobal
